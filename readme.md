@@ -6,6 +6,6 @@ It is built in JavaScript ,HTML and CSS.
 
 Here is a preview :
 
-![image](https://drive.google.com/file/d/1XduNmwfBBUkbjv77NVR0own60Fg5ICcF/view?usp=sharing)
+![image](https://drive.google.com/file/d/1XduNmwfBBUkbjv77NVR0own60Fg5ICcF/view?usp)
 
 *** 
